@@ -1,7 +1,7 @@
 ---
 Title: Inside Llewyn Davis
 Year: 2013
-Genre: Drama
+Genre: Film
 Disease: Depression
 Icd: F32
 ---
